@@ -1,0 +1,6 @@
+{
+  "name": "PaperAgent - CS Research Paper Parser & Student Opportunity Generator",
+  "description": "Advanced Computer Science Research Agent specializing in parsing academic papers, extracting Mermaid system architectures, and identifying student resume & internship project opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
